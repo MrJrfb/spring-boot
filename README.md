@@ -1,4 +1,4 @@
-# API de Gestión Financiera y Créditos (SNPP)
+# API de Gestión Financiera y Créditos
 
 Esta es una API RESTful desarrollada para la gestión de clientes, créditos, pagos, productos financieros y contratos. La documentación interactiva de la API está integrada mediante Swagger UI (OpenAPI 3.0).
 
